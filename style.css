@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+main {
+    
+    width: 40%;
+    height: 20rem;
+    margin: 5rem auto;
+}
+
+.heading {
+    
+    text-align: center;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid red;
+}
+
+.footer {
+    text-align: center;
+    
+    margin-top: 2rem;
+}
+
+.list {
+    border-bottom: 2px solid red;
+}
